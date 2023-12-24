@@ -11,6 +11,8 @@ const checkOddOrEven = (num) => {
 
   let result;
 
+  console.log(result);
+
   if (remainder === 0) {
     result = "even";
   } else {
